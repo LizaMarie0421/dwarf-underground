@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <Header/>
+      <Header/>n;o
 
     <main className="expanded row">
       <div className="large-8 medium-12 columns article">
